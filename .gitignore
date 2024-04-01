@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE files
+.idea/
+.vscode/
+
+# Flask generated files
+instance/
+*.pyc
+*.pyo
+
+# Compiled python files
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+# Runtime files
+*.pid
+*.lock
+*.sock
+
+# Tailwind CSS generated files
+/node_modules/
+/tailwind.config.js
+/public/build/
